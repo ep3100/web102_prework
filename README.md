@@ -24,7 +24,7 @@ The following **Navbar** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/jrpeJeq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Animation](https://github.com/user-attachments/assets/beb582fd-fec0-4f08-b2a3-be49d557128c)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  [ScreenToGif](https://www.screentogif.com/) for Windows
